@@ -1,9 +1,17 @@
-*{
-    margin: 0;
-    height: 0;
-}
-p{
-    text-align: center;
-    color: blueviolet;
-    
-}
+
+       
+       
+       #first{
+            background-color: chartreuse;
+        }
+        #second{
+            background-color: hotpink;
+        }
+       
+        .blue{
+            background-color: rebeccapurple;
+            align-items: center;
+            size: 10;
+            color: aqua;
+        }
+  
