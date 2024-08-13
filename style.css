@@ -1,17 +1,3 @@
-
-       
-       
-       #first{
-            background-color: chartreuse;
-        }
-        #second{
-            background-color: hotpink;
-        }
-       
-        .blue{
-            background-color: rebeccapurple;
-            align-items: center;
-            size: 10;
-            color: aqua;
-        }
-  
+#first{
+    background-color: palegreen;
+}
