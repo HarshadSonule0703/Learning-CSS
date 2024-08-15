@@ -1,11 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-div{
+h1{
     color: violet;
-    background-color: wheat;
-    height: 260px;
-    width: 200px;
-    content: var(200px);
+    background-color: red;
 }
